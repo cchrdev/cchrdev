@@ -6,7 +6,7 @@
 ### Un poco sobre mí
 Hola. Soy Christopher, un desarrollador enfocado en la construcción de software funcional y el estudio de sistemas. Actualmente curso la carrera de Ingeniería en Sistemas Computacionales. Mi día a día se divide entre el desarrollo web, la experimentación con IA y la seguridad informática.
 
-Me apasiona la personalización de entornos (especialmente en Arch Linux) y el gaming, lo que me ha llevado a explorar herramientas creativas como Unity y Blender, complementando mi perfil técnico con una visión más visual y lógica.
+Me apasiona la personalización de entornos (especialmente en Arch Linux) y el gaming, lo que me ha llevado a explorar herramientas como Unity, Blender, Dotfiles y demás.
 
 ---
 
@@ -27,15 +27,6 @@ Me apasiona la personalización de entornos (especialmente en Arch Linux) y el g
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-
----
-
-### Actividad en GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=christopher-dev&show_icons=true&theme=distinguished&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-dev&layout=compact&theme=distinguished&hide_border=true" height="150" alt="Langs" />
-</p>
 
 ---
 
