@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="cchrdev: construyo software, lo opero, lo protejo">
+  <defs>
+    <radialGradient id="f" cx="70%" cy="20%" r="90%"><stop offset="0" stop-color="#1c2a66"/><stop offset=".65" stop-color="#0e1430"/></radialGradient>
+    <pattern id="p" width="14" height="14" patternUnits="userSpaceOnUse"><rect x="3" y="3" width="3" height="3" fill="#f2ede4" opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#f)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#p)"/>
+  <g transform="translate(70 70) scale(1.6)" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round">
+    <path d="M20,80 L20,40 L10,20 L40,35 L50,30 L60,35 L90,20 L80,40 L80,80 Z"/>
+    <g fill="#fff" stroke="none">
+      <ellipse cx="35" cy="54" rx="3.5" ry="3.5"><animate attributeName="ry" values="3.5;3.5;0.4;3.5;3.5" keyTimes="0;.94;.97;.99;1" dur="5.5s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="65" cy="54" rx="3.5" ry="3.5"><animate attributeName="ry" values="3.5;3.5;0.4;3.5;3.5" keyTimes="0;.94;.97;.99;1" dur="5.5s" repeatCount="indefinite"/></ellipse>
+      <polygon points="50,64 46,69 54,69" fill="#ff5c1a"/>
+    </g>
+  </g>
+  <g font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" font-weight="800">
+    <text x="270" y="128" font-size="84" fill="#f2ede4" letter-spacing="2">CCHRDEV</text>
+    <text x="272" y="184" font-size="32" fill="#f2ede4" textLength="860" lengthAdjust="spacingAndGlyphs">CONSTRUYO SOFTWARE. LO OPERO. <tspan fill="#ff5c1a">LO PROTEJO.</tspan></text>
+  </g>
+  <text x="272" y="232" font-family="Helvetica,Arial,sans-serif" font-size="22" fill="#c9cfe6">Desarrollo, infraestructura y seguridad · cchrdev.dev</text>
+  <rect x="270" y="252" width="0" height="4" rx="2" fill="#ffc531"><animate attributeName="width" values="0;860;860" keyTimes="0;.6;1" dur="4s" fill="freeze"/></rect>
+</svg>
