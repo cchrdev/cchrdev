@@ -1,14 +1,6 @@
-<a href="https://cchrdev.dev"><img src="banner.svg" alt="cchrdev: construyo software, lo opero, lo protejo" width="100%"></a>
+<a href="https://cchrdev.dev"><img src="banner.svg" alt="cchrdev" width="100%"></a>
 
-Soy **Christopher**. Escribo la aplicación, monto el servidor donde vive y reviso por dónde se la pueden tumbar. La mayoría de los equipos reparte eso entre tres perfiles.
-
-**Portafolio:** [cchrdev.dev](https://cchrdev.dev) · **Correo:** c.chr.dev@proton.me · **Instagram:** [@c.chr.dev](https://www.instagram.com/c.chr.dev/)
-
-## Lo que hago
-
-| Construyo | Opero | Protejo |
-|---|---|---|
-| Aplicaciones web, móviles y de escritorio | Servidores, virtualización, monitoreo y redes | Auditorías con alcance acordado, endurecimiento y respuesta a incidentes |
+Escribo la aplicación, monto el servidor donde vive y reviso por dónde se la pueden tumbar. La mayoría de los equipos reparte eso entre tres perfiles.
 
 ## Proyectos
 
@@ -18,8 +10,6 @@ Soy **Christopher**. Escribo la aplicación, monto el servidor donde vive y revi
 | **Tomín** | App personal para tarjetas de crédito: lee estados de cuenta en PDF con IA y proyecta si el dinero alcanza hasta el siguiente pago. | Flutter · Supabase · PostgreSQL |
 | **Aether** | Fondos animados para Hyprland con motor propio, editor integrado y mezcla de audio por programa. | C++ · OpenGL · QML · PipeWire |
 | **Alumbra** | Control de iluminación RGB sin el software del fabricante, a partir del protocolo descifrado. | Rust · iced · USB HID |
-
-Los detalles, con capturas y casos de infraestructura y seguridad, están en [cchrdev.dev](https://cchrdev.dev).
 
 ## Con qué trabajo
 
