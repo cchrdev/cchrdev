@@ -1,4 +1,4 @@
-<a href="https://cchrdev.dev"><img src="banner.svg" alt="cchrdev" width="100%"></a>
+<a href="https://cchrdev.dev"><img src="cabecera.svg" alt="cchrdev" width="100%"></a>
 
 Escribo la aplicación, monto el servidor donde vive y reviso por dónde se la pueden tumbar. La mayoría de los equipos reparte eso entre tres perfiles.
 
